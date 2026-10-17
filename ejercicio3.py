@@ -1,3 +1,4 @@
+#3. Una empresa quiere hacer una compra de varias piezas de la misma clase a una fábrica de bolsos.
 valor_total = float(input("Ingrese el monto total de la compra: "))
 
 if valor_total > 500000: 
