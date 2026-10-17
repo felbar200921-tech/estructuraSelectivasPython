@@ -1,3 +1,5 @@
+#8. Tomando como base los resultados obtenidos en un laboratorio de análisis clínicos, un médico determina si una persona tiene anemia o no, 
+#lo cual depende de su nivel de hemoglobina en la sangre, de su edad y de su sexo.
 edad = float(input("Ingrese la edad: "))
 unidad_edad = input("Ingrese la unidad de edad (Meses o Años): ").strip().lower()
 
